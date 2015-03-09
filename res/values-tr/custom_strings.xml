@@ -154,7 +154,7 @@
 
     <!-- Quick Settings collapse panel -->
     <string name="quick_settings_collapse_title">Paneli otomatik kapat</string>
-    <string name="quick_settings_collapse_summary">Geçiş sırasında hızlı ayarları panelini kapatır</string>
+    <string name="quick_settings_collapse_summary">Geçiş sırasında hızlı ayarlar panelini kapatır</string>
 
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_slider_title_eos">Parlaklık ayarı</string>
@@ -196,7 +196,7 @@
     <string name="battery_saver_color_summary">Pil tasarrufu devreye girdiğinde turuncu durumu ve gezinti çubuklarını etkinleştirin</string>
 
     <!--- Lock clock -->
-    <string name="lock_clock_title">Saat widget\'i</string>
+    <string name="lock_clock_title">Saat widget'i</string>
     <string name="lock_clock_summary">\'cLock\' widget ayarlarını görüntüleme ve değiştirme</string>
 
     <!-- Recents panel -->
@@ -258,7 +258,7 @@
     <string name="add_heads_up_blacklist_summary">Bu uygulamalardan bildirim pencerelerini gösterme</string>
     <string name="heads_up_dnd_title">Rahatsız Etme</string>
     <string name="heads_up_blacklist_title">Kara liste</string>
-    <string name="heads_up_disabled_notice">Ekranınızda uygulamaların etkileşimli bildirimler göstermesi için, Heads up\'ı etkinleştirin.</string>
+    <string name="heads_up_disabled_notice">Ekranınızda uygulamaların etkileşimli bildirimler göstermesi için, Heads up'ı etkinleştirin.</string>
 
     <!-- Heads up timeout -->
     <string name="heads_up_time_out_title">Zaman aşımı</string>
@@ -450,7 +450,7 @@
 
     <string name="fully_mode">Tam mod</string>
     <string name="pocket_shake_mode">Cepte ve sallama</string>
-    <string name="pocket_pulse_mode">Cepte and yanma</string>
+    <string name="pocket_pulse_mode">Cepte  yanma</string>
     <string name="pocket_only_mode">Cep</string>
     <string name="shake_pulse_mode">Sallama ve yanma</string>
     <string name="pulse_only_mode">Yanma (varsayılan)</string>
@@ -466,4 +466,8 @@
     <string name="volume_default_media">Medya</string>
     <string name="volume_default_title">Ses varsayılan</string>
     <string name="volume_default_summary">Hangi sesin varsayılan olacağını seçin</string>
+
+	<!-- Advanced mode summary -->
+    <string name="advanced_mode_summary">Gelişmiş ayarları etkinleştirin</string>
+
 </resources>

@@ -462,7 +462,8 @@
 
     <!-- Double tap gesture anywhere on the lock screen put device to sleep -->
     <string name="double_tap_sleep_anywhere_title">Uyutmak için her hangi bir yere iki kez dokunun</string>
-    <string name="double_tap_sleep_anywhere_summary">Kilit ekranında herhangi bir yere iki kez dokunarak cihazı uyku moduna alabilirsiniz
+    <string name="double_tap_sleep_anywhere_summary">Kilit ekranında herhangi bir yere iki kez dokunarak cihazı uyku moduna alabilirsiniz</string>
+    
     <!-- Vibrate options -->
     <string name="vibrate_when_ringing_title_eos">Aramalar için</string>
     <string name="vibrate_on_touch_title_eos">Dokunma için</string>

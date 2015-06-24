@@ -205,7 +205,8 @@
     <string name="lock_clock_summary">Saat ve Hava durumu widgetini nasıl değiştireceğinizi görüntüleyin</string>
 
     <!-- Recents panel -->
-    <string name="recents_panel_category">Son kullanılanlar paneli</string>
+    <string name="recent_panel_title">Çoklu Görev</string>
+    <string name="aosp_recents_panel">AOSP son kullanılanlar ekranı</string>
     <string name="show_clear_all_recents_button_title">Tümünü temizle tuşu</string>
     <string name="show_clear_all_recents_button_summary">Tümünü temizle tuşunu göster</string>
     <string name="recents_clear_all_location_title">Tümünü temizle tuşu konumu</string>
@@ -220,6 +221,23 @@
     <string name="recents_searchbar_title">Arama çubuğu</string>
     <string name="recents_searchbar_summary">Son kullanılanlar panelinin üstünde arama çubuğunu göster</string>
 
+    <!-- Slim recents panel -->
+    <string name="slim_recents_panel">Slim son kullanılanlar ekranı</string>
+    <string name="use_slim_recents_title">Etkin</string>
+    <string name="show_running_tasks_title">Sadece çalışan uygulamaları göster</string>
+    <string name="recents_max_apps_title">İzin verilen maksimum uygulama sayısı</string>
+    <string name="recent_panel_scale_title">Panel boyutu</string>
+    <string name="recent_panel_expanded_mode_title">Genişletilmiş mod</string>
+    <string name="recent_panel_expanded_mode_summary">Son görevler genişletilmiş önizleme modu</string>
+    <string name="recent_panel_expanded_mode_auto">Otomatik (varsayılan)</string>
+    <string name="recent_panel_expanded_mode_always">Her zaman</string>
+    <string name="recent_panel_expanded_mode_never">Asla</string>
+    <string name="recent_panel_show_topmost_title">Üstteki görevi göster</string>
+    <string name="recent_panel_show_topmost_summary">Son kullanılanlar ekranında son kullanılan uygulamayı dahil et</string>
+    <!-- ATTENTION: RTL languages need to replace left with right -->
+    <string name="recent_panel_lefty_mode_title">Sol kenarda göster</string>
+    <string name="recent_panel_lefty_mode_summary">Sol kenarda son uygulamalar panelini göster</string>
+    
     <!-- Full screen keyboard -->
     <string name="fullscreen_keyboard_title">Tam ekran klavye</string>
     <string name="fullscreen_keyboard_summary">Yatay ekranda klavyeyi tam ekran gösterir</string>
@@ -321,8 +339,10 @@
     <string name="privacy_guard_notification_title">Bildirimler</string>
     <string name="privacy_guard_notifiation_summary">Gizlilik koruması aktif olduğunda bir bildirim göster</string>
 
-    <!-- Navring targets (enable/disable) -->
-    <string name="navigation_ring_enable_title">Gezinti halkalarını etkinleştirin</string>
+    <!-- Navring targets -->
+    <string name="navigation_ring_category">Navigation rings</string>
+    <string name="navigation_ring_enable_title">Enable</string>
+    <string name="navigation_ring_title_eos">Targets and layout</string>
 
     <!-- AOKP custom system animations -->
     <string name="animation_title">Animasyonlar</string>  

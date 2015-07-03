@@ -203,6 +203,27 @@
     <string name="weather_options_title">Hava Durumu</string>
     <string name="lock_clock_title">Saat ve Hava durumu widget\'i</string>
     <string name="lock_clock_summary">Saat ve Hava durumu widgetini nasıl değiştireceğinizi görüntüleyin</string>
+    
+    <!-- Lockscreen shortcuts -->
+    <string name="lockscreen_targets_message_eos">Kısayollar</string>
+
+    <!-- Lockscreen weather -->
+    <string name="lock_screen_weather_settings_title">Hava Durumu</string>
+    <string name="weather_show_weather_title">Hava Durumunu göster</string>
+    <string name="weather_show_weather_summary">Hava durumunu göstermek için etkinleştirin</string>
+    <string name="weather_show_location_title">Konumu göster</string>
+    <string name="weather_show_location_summary">Konumu göstermek için etkinleştirin</string>
+    <string name="weather_show_timestamp_title">Zaman damgasını göster</string>
+    <string name="weather_show_timestamp_summary">Zaman damgasını göstermek için etkinleştirin</string>
+    <string name="weather_condition_icon_title">Durum simgesi</string>
+    <string name="weather_condition_icon_dlg_title">Hava durumunu görüntülemek için bir simge seçin</string>
+    <string name="weather_condition_icon_monochrome_title">Monochrome</string>
+    <string name="weather_condition_icon_colored_title">Colored</string>
+    <string name="weather_condition_icon_vclouds_title">VClouds</string>
+    <string name="icons_title">Simgler</string>
+    <string name="position_right_title">Sağda</string>
+    <string name="position_centered_title">Ortada</string>
+    <string name="hidden_title">Gizli</string>
 
     <!-- Recents panel -->
     <string name="recent_panel_title">Çoklu Görev</string>
@@ -501,4 +522,14 @@
     <!-- Task Manager -->
     <string name="enable_task_manager_title">Görev Yöneticisi</string>
     <string name="enable_task_manager_summary">Genişletilmiş durum çubuğunda görev yöneticisi tuşunu gösterir</string>
+    
+    <!-- Breathing Notifications -->
+    <string name="breathing_notifications_title">Nefes efekti bildirimleri</string>
+    <string name="sms_breath_title">SMS Nefes Efekti</string>
+    <string name="sms_breath_summary">Sms bildirimlerinde durum çubuğunda bir nefes efekti verecek</string>
+    <string name="missed_call_breath_title">Cevapsız Çağrı Nefes Efekti</string>
+    <string name="missed_call_breath_summary">Cevapsız çağrı bildirimlerinde durum çubuğunda bir nefes efekti verecek</string>
+    <string name="voicemail_breath_title">Sesli Mesaj Nefes Efekti</string>
+    <string name="voicemail_breath_summary">Sesli mesaj bildirimlerinde durum çubuğunda bir nefes efekti verecek</string>
+    
 </resources>
